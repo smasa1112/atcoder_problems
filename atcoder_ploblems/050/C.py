@@ -28,7 +28,7 @@ else:
                 break
             i+=2
         else:
-            if key!=i or ans_dic[key]!=2
+            if key!=i or ans_dic[key]!=2:
                 flag=False
                 break
             i+=2
